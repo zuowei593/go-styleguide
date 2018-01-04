@@ -1,3 +1,9 @@
+# Linux Kernel Styleguide
+https://www.kernel.org/doc/html/v4.10/process/coding-style.html
+
+# DPDK Styleguide
+http://dpdk.org/doc/guides/contributing/coding_style.html
+
 # Go Styleguide
 
 This serves as a supplement to
